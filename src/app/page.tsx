@@ -8,6 +8,7 @@ const Home = () => {
       <p>added more without redux branch</p>
       <h1>lets check for works</h1>
       <p>so, i don&apost actually need to switch before if works</p>
+      <p>all this are newly added post from the redux the very last one now</p>
     </div>
   )
 }
